@@ -1,0 +1,27 @@
+/* Update this file with your styling rules. */
+body {
+	background-color: #252525;
+	color: lightgray;
+}
+
+h1 {
+	font-size: 36pt;
+}
+.btn {
+	border: 1px solid #fff;
+	background-color: lightgray;
+
+	width: 8em;
+	border-radius: 2em;
+	margin-left: 2em;
+}
+.input{
+    width:4em;
+    }
+
+.spinner{
+        width:40em;
+        height: 40em;
+        position:fixed;
+        margin:auto;
+    }
